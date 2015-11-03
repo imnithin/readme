@@ -15,12 +15,12 @@
 * No code is directly pushed to “base” branch that is "master", make a PR(pull request) please, unless the code is very obvious and very minor change
 * Please review work of every PR.
 * Rspec for controllers and models.
+* Use nested forms and routes wherever necessary.
 
 # Explore by using.
 * NoSql - Mongo DB.
 * Bootstrap or Foundation ?
 * More SLIM or HAML than ERB or even [more](https://www.ruby-toolbox.com/categories/template_engines)
-* Use nested forms and routes wherever necessary.
 * Capistrino deployement process.
 * Using Environment Variables.
 * Language Transalation - i18n.
