@@ -29,6 +29,6 @@
 ```ruby
 start_date = ?
 end_date = ?
-print start_date - end_date
+print end_date - start_date
 ```
 
